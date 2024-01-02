@@ -12,10 +12,6 @@ analytics, knowledge management, natural language processing, and computational 
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not reading or coding, you'll find me watching learning-related YouTube videos, fueling my curiosity.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
-
 
 ### Talking about Personal Stuff:
 
