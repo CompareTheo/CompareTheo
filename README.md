@@ -5,7 +5,7 @@
 
 ### Glad to see you here!
 
-I am the Library Assistant for Electronic Resources at Loyola Marymount University currently assisting with the management of life-cycle processes for electronic and continuing resources; developing custom scripting for vendor system metadata harvest and record compliance with internal metadata control schema while serving as the primary point of contact for electronic resource access and management troubleshooting.
+I am the Library Assistant for Electronic Resources at Loyola Marymount University currently assisting with the management of life-cycle processes for electronic and continuing resources. I develop custom scripting for vendor system metadata harvest and record compliance with internal metadata control schema while serving as the primary point of contact for electronic resource access and management troubleshooting.
 
 I have a passion for problem-solving fueled by the challenge of making library technology more accessible and inclusive, with a strong foundation in Python, AWS, etc. My research interests include data science and big data
 analytics, knowledge management, natural language processing, and computational analysis. 
