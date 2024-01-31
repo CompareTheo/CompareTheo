@@ -18,11 +18,6 @@ I'm an explorer of new technologies, an avid learner, and a problem-solver at he
 - 🛠 &nbsp; I’m currently working with Python, AWS, Cloudflare etc.
 - 📫 &nbsp; Reach me at: info@jasoncmitchell.com.
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool library stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
 
