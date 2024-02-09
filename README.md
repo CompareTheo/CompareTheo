@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/comparetheo/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/comparetheo/)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/108193773553895677)
+
 
 ### Glad to see you here!
 
